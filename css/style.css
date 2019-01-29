@@ -254,7 +254,7 @@ display: block;
 /*-----------------------------------------------------------------------------------*/
 .b-link-stripe{
 	position:relative;
-	display:inline-block;
+	display:inline-flex;
 	vertical-align:top;
 	font-family: 'Open Sans', sans-serif;
 	font-weight: 300;
